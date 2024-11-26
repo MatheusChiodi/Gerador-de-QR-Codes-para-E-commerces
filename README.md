@@ -1,24 +1,24 @@
-# Gerador de QR Codes
+# QR Code Generator
 
-Este sistema, desenvolvido com Node.js, permite aos usuários criar QR Codes para URLs, textos, imagens e outros dados com facilidade, oferecendo diversas opções para personalização, como tamanho, cor e formato.
+This system, developed with Node.js, allows users to create QR Codes for URLs, text, images, and other data with ease, offering various customization options such as size, color, and format.
 
-## Funcionalidades
+## Features
 
-- **Criação de QR Codes**: Gere QR Codes para URLs, textos, imagens e outros tipos de dados.
-- **Personalização**: Customize seus QR Codes escolhendo o tamanho, a cor e o formato que melhor atendem às suas necessidades.
-- **Exportação**: Exporte os QR Codes gerados em diferentes formatos de imagem (PNG, SVG, etc.).
-- **Pré-visualização**: Veja uma pré-visualização do QR Code antes de exportá-lo.
-- **Interface Simples**: Uma interface de usuário amigável que torna a criação e personalização de QR Codes rápida e intuitiva.
+- **QR Code Creation**: Generate QR Codes for URLs, text, images, and other types of data.
+- **Customization**: Personalize your QR Codes by selecting the size, color, and format that best suit your needs.
+- **Export**: Export generated QR Codes in different image formats (PNG, SVG, etc.).
+- **Preview**: View a preview of the QR Code before exporting it.
+- **Simple Interface**: A user-friendly interface that makes creating and customizing QR Codes quick and intuitive.
 
-## Como Usar
+## How to Use
 
-1. **Selecione o tipo de dado** que deseja codificar: URL, texto, imagem, etc.
-2. **Insira os dados** no campo correspondente.
-3. **Personalize** o QR Code ajustando o tamanho, cor e formato.
-4. **Visualize** o QR Code gerado para garantir que esteja conforme desejado.
-5. **Exporte** o QR Code no formato de sua preferência.
+1. **Select the type of data** you want to encode: URL, text, image, etc.
+2. **Enter the data** in the appropriate field.
+3. **Customize** the QR Code by adjusting size, color, and format.
+4. **Preview** the generated QR Code to ensure it meets your expectations.
+5. **Export** the QR Code in your preferred format.
 
-## Requisitos
+## Requirements
 
-- Node.js (versão 14 ou superior)
-- NPM (versão 6 ou superior)
+- Node.js (version 14 or higher)
+- NPM (version 6 or higher)
